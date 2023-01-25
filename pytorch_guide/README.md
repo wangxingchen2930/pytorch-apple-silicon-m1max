@@ -1,6 +1,6 @@
 # PyTorch Tutorial
 
-This project follows the guidance from PyTorch's [official website](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html). Revisions are made for running the coed on apple silicon chip locally.
+This project follows the guidance from PyTorch's [official website](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html). Revisions are made for running the code on apple silicon chip machine locally.
 
 ## Goal
 - Understand PyTorch's Tensor library and neural networks at a high level.
